@@ -32,6 +32,10 @@
     {
       "path": "infra",
       "name": "infra"
+    },
+    {
+      "path": "docs",
+      "name": "docs"
     }
   ],
   "settings": {
