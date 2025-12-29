@@ -60,7 +60,8 @@ Larger efforts are tracked in `.claude/tasks/`. See [tasks/README.md](tasks/READ
   - [config-and-auth-cleanup](./tasks/registry-service/config-and-auth-cleanup.md) (paused)
   - [config-and-auth-cleanup-take-two](./tasks/registry-service/config-and-auth-cleanup-take-two.md) (completed)
   - [integration-tests](./tasks/registry-service/integration-tests.md) (completed)
-  - [aws-deployment](./tasks/registry-service/aws-deployment.md) (draft)
+  - [aws-deployment](./tasks/registry-service/aws-deployment.md) (completed)
+- [hosted-docs](./tasks/hosted-docs.md) (draft)
 
 ## Code Style
 
